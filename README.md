@@ -3,8 +3,9 @@
 <p>
   <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Made with Python" />
   <img src="https://img.shields.io/badge/Powered%20by-Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Powered by Qiskit" />
+  <img src="https://img.shields.io/badge/GPU-Accelerated-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU Acceleration" />
+  <img src="https://img.shields.io/badge/Topic-Quantum%20Cryptography-yellow?style=for-the-badge&logo=atom&logoColor=white" alt="Topic Quantum" />
   <img src="https://img.shields.io/badge/License-Apache%202.0-red?style=for-the-badge&logo=apache&logoColor=white" alt="License" />
-  <img src="https://img.shields.io/badge/Topic-Quantum%20Cryptography-green?style=for-the-badge&logo=atom&logoColor=white" alt="Topic Quantum" />
 </p>
 
 ---
