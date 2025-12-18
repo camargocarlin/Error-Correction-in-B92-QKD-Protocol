@@ -119,7 +119,9 @@ Where:
 
 ### 1. Cascade
 
-<img width="1732" height="976" alt="Image" src="https://github.com/user-attachments/assets/961398f5-f0be-4045-b4cb-dd0412400c63" />
+<p align="center">
+<img width="700" height="376" alt="Image" src="https://github.com/user-attachments/assets/961398f5-f0be-4045-b4cb-dd0412400c63" />
+</p>
 
 - **Parity‑check protocol**:
   - Split key into blocks, exchange parities, identify mismatches, perform binary search to locate and correct errors, then do multiple passes with different interleavings.
@@ -129,7 +131,9 @@ Where:
 
 ### 2. Hamming (15,11)
 
-<img width="1099" height="1249" alt="Image" src="https://github.com/user-attachments/assets/a0aac5d4-a747-42e5-b418-5e28b8eb5ce9" />
+<p align="center">
+  <img width="500" height="700" alt="Image" src="https://github.com/user-attachments/assets/a0aac5d4-a747-42e5-b418-5e28b8eb5ce9" />
+</p>
 
 - **Block code**:
   - Encode 11 data bits into 15‑bit codeword; single‑bit error correction per block.
@@ -139,7 +143,9 @@ Where:
 
 ### 3. LDPC (Low Density Parity Check)
 
-<img width="2151" height="1416" alt="Image" src="https://github.com/user-attachments/assets/29fedb9e-c06d-448b-965b-a67c9b509f1f" />
+<p align="center">
+  <img width="700" height="416" alt="Image" src="https://github.com/user-attachments/assets/29fedb9e-c06d-448b-965b-a67c9b509f1f" />
+</p>
 
 - **Iterative belief‑propagation decoder**:
   - Implemented with a small regular LDPC parity‑check matrix on the binary symmetric channel (BSC).
@@ -228,7 +234,9 @@ Multiple trials per point are averaged for stability.
 ## 🏗️ System Architecture
 The framework is structured into four layers:
 
-<img width="1018" height="1182" alt="Image" src="https://github.com/user-attachments/assets/8b9fc300-a66c-4ed6-a9e6-3ab0fb1d725b" />
+<p align="center">
+<img width="500" height="600" alt="Image" src="https://github.com/user-attachments/assets/8b9fc300-a66c-4ed6-a9e6-3ab0fb1d725b" />
+</p>
 
 1. **Quantum Layer (Qiskit)**  
    - Implements B92 protocol with realistic noise and eavesdropper models.  
